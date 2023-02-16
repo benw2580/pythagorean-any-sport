@@ -1,6 +1,8 @@
 # pythagorean-any-sport
 Python code that applies the pythagorean win-loss formula to any team from any sport that you enter.
 
+I made this in thonny and I don't know how well it runs outside of thonny. Sorry in advance for any issues.
+
 The pythagorean win-loss formula is an equation created by Bill James which derives a projected winning percentage for a baseball team using the number of runs scored by that team and against that team. The original formula is:
 
 (Runs scored^2)/((Runs scored^2) + (Runs allowed^2))
